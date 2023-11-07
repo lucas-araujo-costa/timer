@@ -7,7 +7,7 @@
 
 <br>
 
-- [Demo link](https://data-nlnzh3egb-lucasaraujo1964-gmailcom.vercel.app](https://timer-nine-smoky.vercel.app)
+- [Demo link](https://timer-nine-smoky.vercel.app)
 
 ## Tecnologias
 
