@@ -1,18 +1,22 @@
-<h1 align="center">Timer</h1>
+<h1 align="center">Ignite Timer</h1>
 
 <p align="center">
-  <img alt="timer-home" src="https://cdn.discordapp.com/attachments/1166388798050021456/1171236834651668520/Home.png?ex=655bf24d&is=65497d4d&hm=c9f48675840ae3298e45db26a6461c596950e277218291fa1479106f986760c4&" width="100%">
-  <img alt="timer-history" src="https://cdn.discordapp.com/attachments/1166388798050021456/1171240162722852894/History.png?ex=655bf567&is=65498067&hm=b3f76e205f6e6b46337452e8492b8a62140eba1743235def0caecdea4b0769a4&" width="100%">
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+<p align="center">
+  <img alt="timer-home" src="https://i.imgur.com/el3fm3J.png" width="100%">
+  <img alt="timer-in-progress" src="https://i.imgur.com/0HVCNAQ.png" width="100%">
+  <img alt="timer-in-progress" src="https://i.imgur.com/FzNFKXK.png" width="100%">
+  
+</p>
 
-- [Demo link](https://timer-nine-smoky.vercel.app)
+## Project
 
-## Tecnologias
+Ignite Timer is a project developed during Rocketseat's ReactJS course.
 
-Teconologias que utilizei para construir esta aplicação:
+## Technologies
 
-- React
-- TypeScript
+- Vite(Typescript + ReactJS)
 - Styled Components
